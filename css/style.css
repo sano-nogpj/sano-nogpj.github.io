@@ -12,7 +12,7 @@ html {
 
 .container{
 width:90%;
-max-width:1120px;
+max-width:1600px;
 background-color: gainsboro a;
 margin:0 auto;
 }
@@ -234,7 +234,7 @@ border-radius:45px;
 .wrap {
   
     width:90vw;
-    max-width: 1120px;
+    max-width: 1600px;
 display: flex;
   flex-wrap: wrap;
     justify-content:center;
@@ -244,20 +244,20 @@ display: flex;
 .item{ 
 margin:0.5vw;
 width:29vw;
-    max-width: 324px;
+    max-width: 464px;
 
 height:29vw;
-   max-height: 324px;
+   max-height: 464px;
 object-fit: cover;
 }
 
 .item img{  
 
    width: 29vw;
-   max-width: 324px;
+   max-width: 464px;
 
   height: 29vw;
-   max-height: 324px; 
+   max-height: 464px; 
   object-fit: cover;
 
 
