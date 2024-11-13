@@ -233,7 +233,7 @@ border-radius:45px;
 
 .wrap {
   width:100dvw;
-   max-width:1120px;
+  
 display: flex;
   flex-wrap: wrap;
 justify-content:center;
@@ -241,7 +241,7 @@ justify-content:center;
 .item{ 
 margin:0.5dvw;
 width:32dvw;
-   max-width:1120px;
+
 height:32dvw;
 object-fit: cover;
 }
@@ -249,7 +249,7 @@ object-fit: cover;
 .item img{  
 
    width: 32dvw;
-   max-width:1120px;
+   
   height: 32dvw;
   object-fit: cover;
 
