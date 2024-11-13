@@ -232,22 +232,22 @@ border-radius:45px;
 /*ぎゃらりー*/
 
 .wrap {
-  width:100dvh;
+  width:100vw;
 display: flex;
   flex-wrap: wrap;
 justify-content:center;
 
 .item{ 
-margin:0.5dvh;
-width:32dvh;
-height:32dvh;
+margin:0.5vw;
+width:32vw;
+height:32vw;
 object-fit: cover;
 }
 
 .item img{  
 
-   width: 32dvh;
-  height: 32dvh;
+   width: 32vw;
+  height: 32vw;
   object-fit: cover;
 
 
