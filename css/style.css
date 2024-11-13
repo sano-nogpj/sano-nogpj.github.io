@@ -11,7 +11,7 @@ html {
 
 
 .container{
-width:90dvw;
+width:90%;
 max-width:1120px;
 background-color: gainsboro a;
 margin:0 auto;
@@ -232,22 +232,22 @@ border-radius:45px;
 /*ぎゃらりー*/
 
 .wrap {
-  width:100dvw;
+  width:100dvh;
 display: flex;
   flex-wrap: wrap;
 justify-content:center;
 
 .item{ 
-margin:0.5dvw;
-width:32dvw;
-height:32dvw;
+margin:0.5dvh;
+width:32dvh;
+height:32dvh;
 object-fit: cover;
 }
 
 .item img{  
 
-   width: 32dvw;
-  height: 32dvw;
+   width: 32dvh;
+  height: 32dvh;
   object-fit: cover;
 
 
