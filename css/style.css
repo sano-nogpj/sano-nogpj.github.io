@@ -129,7 +129,7 @@ object-fit: cover;
     color:darkred;
 
     text-align:center;
-    position:relative;
+    position:absolute;
 }
 
 
