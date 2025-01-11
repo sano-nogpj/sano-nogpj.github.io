@@ -44,9 +44,6 @@ color:darkolivegreen
     color:darkred;
 }
 
-.gallery_menu li a:hover{
-    color:darkred;
-}
 
 
 
@@ -126,8 +123,12 @@ width:29vw;
 height:29vw;
    max-height: 348px;
 object-fit: cover;
-}
 
+}
+.item a:hover{  
+    color:darkred;
+}
+    
 .item img{  
 
    width: 29vw;
