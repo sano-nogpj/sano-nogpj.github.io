@@ -134,7 +134,7 @@ object-fit: cover;
     text-stroke:#FFFFFF;
 }
 .item img:hover{  
-    opacity:0.75;
+    opacity:0.5;
 }
 
 
