@@ -133,8 +133,8 @@ object-fit: cover;
     text-align:center;
     text-stroke:#FFFFFF;
 }
-.item a:hover{  
-    color:darkred;
+.item img:hover{  
+    opacity:0.75;
 }
 
 
