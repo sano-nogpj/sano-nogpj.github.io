@@ -125,6 +125,12 @@ height:29vw;
 object-fit: cover;
 
 }
+
+.item a{
+    position:absolute;
+    pfont-size:5em;
+    
+}
 .item a:hover{  
     color:darkred;
 }
