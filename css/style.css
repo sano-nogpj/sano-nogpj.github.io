@@ -127,8 +127,11 @@ object-fit: cover;
 }
 .item a:hover{  
     color:darkred;
+
+    text-align:center
 }
-    
+
+
 .item img{  
 
    width: 29vw;
