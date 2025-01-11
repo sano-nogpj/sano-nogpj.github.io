@@ -44,7 +44,9 @@ color:darkolivegreen
     color:darkred;
 }
 
-
+.gallery_menu li a:hover{
+    color:darkred;
+}
 
 
 
