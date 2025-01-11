@@ -127,10 +127,6 @@ object-fit: cover;
 }
 .item a:hover{  
     color:darkred;
-
-  
-    position:absolute;
-    object-fit: cover;
 }
 
 
