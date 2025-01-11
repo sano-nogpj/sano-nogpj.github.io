@@ -129,8 +129,9 @@ object-fit: cover;
 
 .item a{
     position:absolute;
-    pfont-size:5em;
+    font-size:5em;
     z-index:2;
+    text-align:center;
 }
 .item a:hover{  
     color:darkred;
