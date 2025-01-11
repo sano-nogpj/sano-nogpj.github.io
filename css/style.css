@@ -128,8 +128,9 @@ object-fit: cover;
 .item a:hover{  
     color:darkred;
 
-    text-align:center;
+  
     position:absolute;
+    object-fit: cover;
 }
 
 
