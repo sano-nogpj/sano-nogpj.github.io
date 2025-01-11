@@ -130,7 +130,7 @@ object-fit: cover;
 .item a{
     position:absolute;
     pfont-size:5em;
-    
+    z-index:2;
 }
 .item a:hover{  
     color:darkred;
@@ -145,7 +145,7 @@ object-fit: cover;
   height: 29vw;
    max-height: 348px; 
   object-fit: cover;
-
+z-index:1;
 
 }
 
