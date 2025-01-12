@@ -150,5 +150,22 @@ z-index:1;
 
 }
 
+.item video:hover{  
+    opacity:0.5;
+}
+
+
+.item video{  
+
+   width: 29vw;
+   max-width: 348px;
+
+  height: 29vw;
+   max-height: 348px; 
+  object-fit: cover;
+z-index:1;
+
+}
+
 
 
